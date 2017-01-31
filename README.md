@@ -1,0 +1,2 @@
+# git öğreniyorum
+# git-proje
